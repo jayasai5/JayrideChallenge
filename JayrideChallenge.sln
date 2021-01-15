@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JayrideChallenge", "JayrideChallenge\JayrideChallenge.csproj", "{C0DFC585-0749-4BDC-AF44-03B730326717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0DFC585-0749-4BDC-AF44-03B730326717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0DFC585-0749-4BDC-AF44-03B730326717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0DFC585-0749-4BDC-AF44-03B730326717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0DFC585-0749-4BDC-AF44-03B730326717}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45FAF3BC-6F6F-4C46-8FF3-8A59D48C6EAF}
+	EndGlobalSection
+EndGlobal
